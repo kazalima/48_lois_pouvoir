@@ -7,3 +7,9 @@ numpy==1.26.0
 pandas==2.1.0
 matplotlib==3.9.2
 tqdm==4.66.5
+sentence_transformers
+tqdm
+tensorflow 
+transformers 
+pyyaml 
+huggingface_hub
