@@ -1,0 +1,9 @@
+data:
+  pdf: "/content/48_lois_kaza/data/raw/48_laws_of_power.pdf"
+  text: "data/processed/48_laws_of_power.txt"
+  embeddings: "data/processed/embeddings.json"
+model:
+  embedding_model: "paraphrase-multilingual-mpnet-base-v2"
+# Add retrieval configuration
+retrieval:
+  top_k: 3 # Default number of top results to retrieve
