@@ -1,9 +1,17 @@
 data:
-  pdf: "/content/48_lois_kaza/data/raw/48_laws_of_power.pdf"
+  pdf: "/content/48_lois_pouvoir/data/raw/48_laws_of_power.pdf"
   text: "data/processed/48_laws_of_power.txt"
   embeddings: "data/processed/embeddings.json"
+  processed: "data/processed/fine_tuning_data.jsonl"
+  output: "data/processed/instruction-data-with-response.json"
 model:
   embedding_model: "paraphrase-multilingual-mpnet-base-v2"
-# Add retrieval configuration
+  hf_model: "gpt2-medium"  # Modèle Hugging Face
+  save_path: "data/processed/gpt2-medium-sft.pth"
+  context_length: 1024
+  batch_size: 2
+  num_epochs: 2
+  learning_rate: 0.00005
+  weight_decay: 0.1
 retrieval:
-  top_k: 3 # Default number of top results to retrieve
+  top_k: 3
