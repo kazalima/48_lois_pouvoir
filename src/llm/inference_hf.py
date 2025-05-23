@@ -19,7 +19,7 @@ def generate_responses(model, tokenizer, test_data, config, device):
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
         response = generated_text[len(input_text):].strip()
         test_data[i]["model_response"] = response
-    
+
     with open(config["data"]["output"], "w", encoding="utf-8") as f:
         json.dump(test_data, f, indent=4, ensure_ascii=False)
     print(f"Réponses sauvegardées sous {config['data']['output']}")

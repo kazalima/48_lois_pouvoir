@@ -25,7 +25,7 @@ def train_model(model, train_loader, val_loader, config, device):
     )
     num_epochs = config["model"]["num_epochs"]
     train_losses, val_losses = [], []
-    
+
     for epoch in range(num_epochs):
         model.train()
         epoch_loss = 0.0
@@ -38,11 +38,11 @@ def train_model(model, train_loader, val_loader, config, device):
             optimizer.step()
             epoch_loss += loss.item()
         train_losses.append(epoch_loss / len(train_loader))
-        
+
         val_loss = compute_loss(model, val_loader, device)
         val_losses.append(val_loss)
         print(f"Époque {epoch+1}/{num_epochs} - Perte entraînement : {train_losses[-1]:.4f}, Perte validation : {val_loss:.4f}")
-    
+
     return train_losses, val_losses
 
 def plot_losses(epochs_seen, train_losses, val_losses, save_path):

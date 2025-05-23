@@ -5,85 +5,86 @@ import random
 with open("data/processed/embeddings.json", "r", encoding="utf-8") as f:
     laws_data = json.load(f)
 
-# Questions disponibles
-questions = {
-    "Explain this law in simple terms": "Expliquez cette loi en termes simples",
-    "Give a historical example of this law": "Donnez un exemple historique de cette loi",
-    "How to apply this law in business?": "Comment appliquer cette loi en entreprise ?",
-    "What is the counter-measure for this law?": "Quelle est la contre-mesure à cette loi ?",
-    "Summarize this law in one sentence": "Résumez cette loi en une phrase"
-}
+# Questions en français avec types
+question_templates = [
+    ("Expliquez cette loi en termes simples", "explanation"),
+    ("Donnez un exemple historique de cette loi", "historical"),
+    ("Comment appliquer cette loi en entreprise ?", "business"),
+    ("Quelle est la contre-mesure à cette loi ?", "counter"),
+    ("Résumez cette loi en une phrase", "summary")
+]
 
-# Réponses types
+# Réponses types enrichies
 explanations = [
-    "elle conseille de ne jamais faire trop confiance aux autres.",
-    "elle montre que le pouvoir est souvent basé sur la perception.",
-    "elle enseigne à ne jamais éclipser le maître.",
-    "elle suggère de toujours dire moins que nécessaire.",
-    "elle recommande de maîtriser l’art du timing."
+    "elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
+    "elle conseille de toujours préserver les apparences pour mieux manipuler les autres.",
+    "elle enseigne que trop de transparence peut nuire à votre influence.",
+    "elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
+    "elle démontre que la maîtrise de soi est essentielle pour gouverner efficacement."
 ]
 
 historical_figures = [
-    "Napoléon Bonaparte", "Louis XIV", "Catherine de Médicis",
-    "Jules César", "Machiavel", "Otto von Bismarck", "Talleyrand"
+    "Napoléon Bonaparte pendant la campagne d’Italie",
+    "Machiavel dans son œuvre *Le Prince*",
+    "Catherine de Médicis à la cour de France",
+    "Talleyrand sous Napoléon et Louis XVIII",
+    "Jules César lors de la guerre des Gaules"
 ]
 
 business_applications = [
-    "en gardant certaines informations confidentielles.",
-    "en ne montrant jamais toute sa stratégie à ses concurrents.",
-    "en laissant ses supérieurs croire qu’ils ont eu l’idée.",
-    "en contrôlant son image publique avec soin.",
-    "en construisant des alliances tout en gardant le contrôle."
+    "en laissant le PDG croire que les idées viennent de lui.",
+    "en manipulant l’image publique pour gagner la confiance des clients.",
+    "en retardant délibérément certaines annonces stratégiques.",
+    "en créant des alliances dans l’entreprise tout en gardant l’avantage.",
+    "en évitant de dévoiler ses vraies intentions lors des réunions."
 ]
 
 counter_measures = [
-    "en cultivant la transparence face aux manipulations.",
-    "en posant des limites claires aux abus de pouvoir.",
-    "en favorisant la collaboration plutôt que la domination.",
-    "en gardant un esprit critique face aux flatteries.",
-    "en évitant les jeux d’influence toxiques."
+    "en exposant les tactiques de manipulation utilisées par les puissants.",
+    "en créant un climat de transparence contrôlée dans son équipe.",
+    "en privilégiant la loyauté authentique aux flatteries intéressées.",
+    "en posant des limites claires face à l’abus de pouvoir.",
+    "en utilisant l’humour pour désamorcer les rapports de force."
 ]
 
 summaries = [
-    "Ne jamais surpasser son supérieur.",
-    "Contrôlez l’apparence et les perceptions.",
-    "Maîtrisez le pouvoir à travers les alliances.",
-    "Faites-en toujours moins que nécessaire.",
-    "Ne révélez jamais vos véritables intentions."
+    "Faites en sorte que votre supérieur brille plus que vous.",
+    "Maîtrisez l'art de dissimuler vos intentions.",
+    "Le pouvoir repose sur l’image, pas sur la vérité.",
+    "L’influence passe par le contrôle de l’apparence.",
+    "Il ne faut jamais dire plus que nécessaire."
 ]
 
 output_data = []
 
-# Boucle jusqu’à atteindre 1200 exemples
 while len(output_data) < 1200:
     law_entry = random.choice(laws_data)
     law_text = law_entry.get("law", "").strip()
-    
+
     if not law_text:
         continue
 
-    # Numéro de la loi
+    # Identifier la loi
     try:
         law_number = law_text.split("LOI ")[1].split(" ")[0]
     except IndexError:
         law_number = "?"
 
-    en_question, fr_question = random.choice(list(questions.items()))
-    input_text = f"Loi {law_number} : {law_text[:150].strip()}..."
-    output = ""
+    fr_question, question_type = random.choice(question_templates)
+    input_text = f"LOI {law_number} : {law_text.strip()[:300]}..."
 
-    if "Expliquez" in fr_question:
-        output = f"La LOI {law_number} signifie que {random.choice(explanations)}"
-    elif "exemple historique" in fr_question:
-        output = f"Un exemple historique est {random.choice(historical_figures)}, qui a appliqué cette loi pour renforcer son pouvoir."
-    elif "appliquer cette loi en entreprise" in fr_question:
-        output = f"On peut appliquer cette loi {random.choice(business_applications)}"
-    elif "contre-mesure" in fr_question:
-        output = f"La meilleure contre-mesure est {random.choice(counter_measures)}"
-    elif "une phrase" in fr_question:
+    # Génération de la réponse
+    if question_type == "explanation":
+        output = f"Cette loi signifie que {random.choice(explanations)}"
+    elif question_type == "historical":
+        output = f"{random.choice(historical_figures)} est un exemple parfait d’application de cette loi."
+    elif question_type == "business":
+        output = f"Dans un contexte professionnel, on peut appliquer cette loi {random.choice(business_applications)}"
+    elif question_type == "counter":
+        output = f"Une bonne stratégie pour résister à cette loi est {random.choice(counter_measures)}"
+    elif question_type == "summary":
         output = f"{random.choice(summaries)}"
 
-    # Vérification : aucun champ vide
     if input_text and output:
         entry = {
             "instruction": fr_question,
@@ -92,9 +93,9 @@ while len(output_data) < 1200:
         }
         output_data.append(entry)
 
-# Sauvegarde au format JSONL
+# Sauvegarde
 with open("data/processed/fine_tuning_data.jsonl", "w", encoding="utf-8") as f:
     for entry in output_data:
         f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-print(f"{len(output_data)} exemples générés.")
+print(f"{len(output_data)} exemples générés avec succès.")

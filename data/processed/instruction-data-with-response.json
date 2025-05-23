@@ -1,722 +1,722 @@
 [
     {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 2 : LOI 2 NE VOUS FIEZ PAS  VOS AMIS, UTILISEZ VOS ENNEMIS PRINCIPE Gardez-vous de vos amis : beaucoup vous trahiront parenvie. Dautres se montreront gts, tyranniques. Unancien ennemi que vous engagez sera plus loyal quun amiparce quil devra faire ses preuves. En fait, vous avez plus craindre de vos ami...",
+        "output": "Cette loi signifie que elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
+        "model_response": ""
+    },
+    {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde y...",
-        "output": "Un exemple historique est Jules César, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 13 : LOI 13 MISEZ SUR LINTRT PERSONNEL, JAMAIS SUR LA PITI NI LA RECONNAISSANCE PRINCIPE Si vous avez besoin dun alli, ne lui rappelez pas laideque vous lui avez apporte ni les services que vous lui avezrendus, vous le feriez fuir. Mieux vaut faire valoir dansvotre demande dalliance un lment qui lui sera...",
+        "output": "Catherine de Médicis à la cour de France est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 6Image : Loi 17) ; comme Hannibal, montez unscnario indchiffrable. V otre comportement semblera insens, sans rime niraison. Si vous vous y prenez bien, vous inspirerez la crainte et les senti-nelles abandonneront leur poste. Cette tactique est parfois appele la  foliesimule de Hamlet  car Hamlet utilise habi...",
+        "output": "Catherine de Médicis à la cour de France est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 43 : LOI 43 PARLEZ AUX CURS ET AUX ESPRITS PRINCIPE La coercition pure peut se retourner contre vous. Sduisezplutt, donnez envie daller dans votre sens. Celui quevous avez sduit deviendra votre marionnette. Et poursduire, il faut agir sur la psychologie de chacun, exploi-ter ses faiblesses. Assouplissez ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en évitant de dévoiler ses vraies intentions lors des réunions.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. C...",
-        "output": "La meilleure contre-mesure est en favorisant la collaboration plutôt que la domination.",
+        "input": "LOI 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  votre ennemi, restez adaptable etmobile. Acceptez que rien nest certain, quaucune loinest immuable. La meilleure faon de vous protger estdtre aussi flu...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": "Résumez cettes lois d’influence passe par le contrôle de l‒apparence."
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 13 : LOI 13 MISEZ SUR LINTRT PERSONNEL, JAMAIS SUR LA PITI NI LA RECONNAISSANCE PRINCIPE Si vous avez besoin dun alli, ne lui rappelez pas laideque vous lui avez apporte ni les services que vous lui avezrendus, vous le feriez fuir. Mieux vaut faire valoir dansvotre demande dalliance un lment qui lui sera...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
         "model_response": ""
     },
     {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 14 : LOI 14 SOYEZ UN FAUX AMI ET UN VRAI ESPION PRINCIPE T out savoir de son rival est indispensable. Vous prendrezun avantage inestimable en postant des e...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 43 : LOI 43 PARLEZ AUX CURS ET AUX ESPRITS PRINCIPE La coercition pure peut se retourner contre vous. Sduisezplutt, donnez envie daller dans votre sens. Celui quevous avez sduit deviendra votre marionnette. Et poursduire, il faut agir sur la psychologie de chacun, exploi-ter ses faiblesses. Assouplissez ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
         "model_response": ""
     },
     {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 5 : LOI 5 PROTGEZ VOTRE RPUT ATION COMME LA PRUNELLE DE VOS YEUX PRINCIPE La rputation est la pierre angulaire du pouvoir.  elleseule, elle peut vous perm...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Une bonne stratégie pour résister à cette loi est en exposant les tactiques de manipulation utilisées par les puissants.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfois...",
-        "output": "La LOI 15 signifie que elle recommande de maîtriser l’art du timing.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrh...",
-        "output": "Un exemple historique est Catherine de Médicis, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 45 : LOI 45 APPELEZ AU CHAN GEMENT , PAS  LA RVOLUTION PRINCIPE Le changement est salutaire, tout le monde est daccordl-dessus ; mais notre quotidien est p...",
-        "output": "La meilleure contre-mesure est en évitant les jeux d’influence toxiques.",
+        "input": "LOI 13 : LOI 13 MISEZ SUR LINTRT PERSONNEL, JAMAIS SUR LA PITI NI LA RECONNAISSANCE PRINCIPE Si vous avez besoin dun alli, ne lui rappelez pas laideque vous lui avez apporte ni les services que vous lui avezrendus, vous le feriez fuir. Mieux vaut faire valoir dansvotre demande dalliance un lment qui lui sera...",
+        "output": "Cette loi signifie que elle démontre que la maîtrise de soi est essentielle pour gouverner efficacement.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart du...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
+        "input": "LOI 3 : LOI 3 DISSIMULEZ VOS INTENTIONS PRINCIPE Maintenez votre entourage dans lincertitude et le flou enne rvlant jamais le but qui se cache derrire vos actions.Sils nont aucune ide de ce que vous prvoyez, ils nepourront pas prparer de dfense. Guidez-les assez loindans une autre direction, enveloppez-les ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en manipulant l’image publique pour gagner la confiance des clients.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs ventuelles cons-quences, des obstacles qui risquent de surgir et des reversde fortune qui pourraient anantir vos efforts. En plani-fiant votre action jusq...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en laissant le PDG croire que les idées viennent de lui.",
         "model_response": ""
     },
     {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 36 : LOI 36 MPRISEZ LES CONTRARITS PRINCIPE En vous laissant obsder par un problme insignifiant,vous lui donnez de limportance. Prter attention  unennemi l...",
-        "output": "Un exemple historique est Louis XIV, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrhus : le ressentiment, la rancurque lon suscite sont plus forts et plus durables que ladocilit force de votre interlocuteur. Votre pouvoir serabien plu...",
+        "output": "Napoléon Bonaparte pendant la campagne d’Italie est un exemple parfait d’application de cette loi.",
         "model_response": ""
     },
     {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 23 : LOI 23 CONCENTREZ VOS FORCES PRINCIPE conomisez vos forces et votre nergie en les gardantconcentres  leur niveau le plus lev. On gagne plus enexploita...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  votre ennemi, restez adaptable etmobile. Acceptez que rien nest certain, quaucune loinest immuable. La meilleure faon de vous protger estdtre aussi flu...",
+        "output": "Napoléon Bonaparte pendant la campagne d’Italie est un exemple parfait d’application de cette loi.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anod...",
-        "output": "Faites-en toujours moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit...",
-        "output": "La meilleure contre-mesure est en favorisant la collaboration plutôt que la domination.",
+        "input": "LOI 26 : LOI 26 GARDEZ LES MAINS PROPRES PRINCIPE Soyez un parangon de probit et de civisme : ne vousabaissez jamais  aucune gaffe ni magouille. Restez au-dessus de tout soupon. Utilisez plutt les autrescomme boucs missaires ou chargez-les de tirer  votreplace les marrons du feu. 200 I. FAITES RETO MBER VOS ...",
+        "output": "Faites en sorte que votre supérieur brille plus que vous.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jama...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 26 : LOI 26 GARDEZ LES MAINS PROPRES PRINCIPE Soyez un parangon de probit et de civisme : ne vousabaissez jamais  aucune gaffe ni magouille. Restez au-dess...",
-        "output": "La LOI 26 signifie que elle montre que le pouvoir est souvent basé sur la perception.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 18 : LOI 18 NE RESTEZ PAS DANS VOTRE TOUR DIVOIRE PRINCIPE Le monde est une jungle et les ennemis sont partout :chacun doit se protger. Une forteresse semb...",
-        "output": "Faites-en toujours moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs vent...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
+        "input": "LOI 45 : LOI 45 APPELEZ AU CHAN GEMENT , PAS  LA RVOLUTION PRINCIPE Le changement est salutaire, tout le monde est daccordl-dessus ; mais notre quotidien est ptri dhabitudes.Trop dinnovations simultanes traumatisent et condui-sent  la rvolte. Si vous venez dtre intronis  un postede pouvoir ou que vous essaye...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
+        "model_response": "Résumezc des opinions  contre-courant, anticon-formistes, peu orthodoxes annonces stratégiques."
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurpla...",
-        "output": "La LOI 1 signifie que elle montre que le pouvoir est souvent basé sur la perception.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart du...",
-        "output": "La LOI 24 signifie que elle suggère de toujours dire moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 7 : LOI 7 LAISSEZ LE TRAV AIL AUX AUTRES, MAIS RECUEI LLEZ- EN LES LAURIERS PRINCIPE Utilisez la sagesse, le savoir et le travail des autres pourfaire ava...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs vent...",
-        "output": "Un exemple historique est Catherine de Médicis, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 21 : LOI 21  SOT, SOT ET DEMI PRINCIPE On naime pas avoir lair plus bte que son voisin.Utilisez donc ce stratagme : faites en sorte que ceux quevous visez se croient intelligents, et surtout plus intelli-gents que vous. Une fois convaincus, ils ne chercheront pasplus loin et ne se mfieront pas de vos agi...",
+        "output": "Cette loi signifie que elle démontre que la maîtrise de soi est essentielle pour gouverner efficacement.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 26 : LOI 26 GARDEZ LES MAINS PROPRES PRINCIPE Soyez un parangon de probit et de civisme : ne vousabaissez jamais  aucune gaffe ni magouille. Restez au-dess...",
-        "output": "La meilleure contre-mesure est en favorisant la collaboration plutôt que la domination.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 11 : LOI 11 RENDEZ-VOUS INDISPENSABLE PRINCIPE Pour garder votre indpendance, vous devez faire en sorteque lon ne puisse se passer de vous. Plus on compte...",
-        "output": "Un exemple historique est Napoléon Bonaparte, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit...",
-        "output": "Un exemple historique est Napoléon Bonaparte, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 28 : LOI 28 FAITES PREUVE DAUDACE PRINCIPE Si vous ntes pas sr de lissue dune action, ne vous ylancez pas. Vos doutes et vos hsitations entraveraient sonex...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 34 : LOI 34 SOYEZ ROYAL PRINCIPE Le traitement quon vous rserve est le reflet de votre atti-tude : la vulgarit, la banalit ninspirent nul respect.Cest parc...",
-        "output": "On peut appliquer cette loi en laissant ses supérieurs croire qu’ils ont eu l’idée.",
+        "input": "LOI 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un grand homme ou que vous avez un parent clbre, vousaurez  en faire deux fois plus pour lclipser. Ne vous perdez pas dans son ombre ; ne vous identifiez pa...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrh...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 21 : LOI 21  SOT, SOT ET DEMI PRINCIPE On naime pas avoir lair plus bte que son voisin.Utilisez donc ce stratagme : faites en sorte que ceux quevous visez...",
-        "output": "Un exemple historique est Louis XIV, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 14 : LOI 14 SOYEZ UN FAUX AMI ET UN VRAI ESPION PRINCIPE T out savoir de son rival est indispensable. Vous prendrezun avantage inestimable en postant des espions qui vouscommuniqueront des informations prcieuses. Mieuxencore : espionnez vous-mme. Dans les runions mon-daines, ouvrez lil, prtez loreille. P...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 34 : LOI 34 SOYEZ ROYAL PRINCIPE Le traitement quon vous rserve est le reflet de votre atti-tude : la vulgarit, la banalit ninspirent nul respect.Cest parc...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
+        "input": "LOI 20 : LOI 20 NE PRENEZ PAS PARTI PRINCIPE Stupide est celui qui aline sa libert  un parti. Soyezvous-mme votre unique cause. En gardant votre indpen-dance, vous deviendrez le matre de tous : dressez-les lesuns contre les autres et obligez-les  vous suivre. 145 146 LOI 20I. N E CDEZ  AUCUN , FAITES -VOUS C...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfoisils lont appris  leurs dpens. Sil subsiste ne serait-cequune faible braise, le feu reprendra. Vous avez beaucoupplus  perdre en faisant preuve de clme...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 42 : LOI 42 LIMINEZ L  AGIT A TEUR PRINCIPE Souvent, un problme de groupe est li  un seul fauteurde troubles, un arrogant sous-fifre promu empcheur detourner en rond. Si vous lui laissez les moyens de nuire,les autres succomberont  son influence. Nattendez pasque les problmes crs par un lment rcalcitrant...",
+        "output": "Napoléon Bonaparte pendant la campagne d’Italie est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 26 : LOI 26 GARDEZ LES MAINS PROPRES PRINCIPE Soyez un parangon de probit et de civisme : ne vousabaissez jamais  aucune gaffe ni magouille. Restez au-dessus de tout soupon. Utilisez plutt les autrescomme boucs missaires ou chargez-les de tirer  votreplace les marrons du feu. 200 I. FAITES RETO MBER VOS ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vous faites partie dun groupe, loignez-vous-en un certaintemps et lon parlera de vous davantage, vous serez mmeplus admir. Pratiquez labsence : la raret ...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 43 : LOI 43 PARLEZ AUX CURS ET AUX ESPRITS PRINCIPE La coercition pure peut se retourner contre vous. Sduisezplutt, donnez envie daller dans votre sens. Ce...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
+        "input": "LOI 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart duflou, flatter, sabaisser devant les grands et exercer sonpouvoir sur les autres de manire aussi courtoise quediscrte. Apprenez et appliquez les lois d...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anod...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
+        "input": "LOI 38 : LOI 38 PENSEZ LIBREMENT , PARLEZ SOBR EMENT PRINCIPE Si vous affichez des opinions  contre-courant, anticon-formistes, peu orthodoxes, on pensera que vous vous croyezplus malin que les autres et que vous les prenez de haut,et lon cherchera  vous en faire passer lenvie. Mieuxvaut se fondre dans la ma...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jama...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vou...",
-        "output": "Ne révélez jamais vos véritables intentions.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart du...",
-        "output": "Un exemple historique est Napoléon Bonaparte, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 28 : LOI 28 FAITES PREUVE DAUDACE PRINCIPE Si vous ntes pas sr de lissue dune action, ne vous ylancez pas. Vos doutes et vos hsitations entraveraient sonex...",
-        "output": "On peut appliquer cette loi en contrôlant son image publique avec soin.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 44 : LOI 44 SINGEZ L ENNEMI PRINCIPE Un miroir reflte la ralit, mais cest aussi loutil parexcellence de lillusionniste : lorsque vous vous faites lemiroir...",
-        "output": "La LOI 44 signifie que elle enseigne à ne jamais éclipser le maître.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 6Image : Loi 17) ; comme Hannibal, montez unscnario indchiffrable. V otre comportement semblera insens, sans rime niraison. Si vous vous y prenez bien, vous in...",
-        "output": "La LOI 6Image signifie que elle montre que le pouvoir est souvent basé sur la perception.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 33 : LOI 33 TROUVEZ LE TALON DACHILLE PRINCIPE T out le monde a un point faible, une fissure dans le rem-part de sa personnalit : un sentiment dinscurit, u...",
-        "output": "Faites-en toujours moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrh...",
-        "output": "On peut appliquer cette loi en laissant ses supérieurs croire qu’ils ont eu l’idée.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 11 : LOI 11 RENDEZ-VOUS INDISPENSABLE PRINCIPE Pour garder votre indpendance, vous devez faire en sorteque lon ne puisse se passer de vous. Plus on compte...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 6 : LOI 6 ATTIREZ LATTENTION  TOUT PRIX PRINCIPE Les gens jugent tout  lapparence ; ce qui nest pas visi-ble ne compte pour rien. Ne vous laissez jamais n...",
-        "output": "On peut appliquer cette loi en construisant des alliances tout en gardant le contrôle.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. C...",
-        "output": "Un exemple historique est Jules César, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 18 : LOI 18 NE RESTEZ PAS DANS VOTRE TOUR DIVOIRE PRINCIPE Le monde est une jungle et les ennemis sont partout :chacun doit se protger. Une forteresse semb...",
-        "output": "La LOI 18 signifie que elle enseigne à ne jamais éclipser le maître.",
+        "input": "LOI 38 : LOI 38 PENSEZ LIBREMENT , PARLEZ SOBR EMENT PRINCIPE Si vous affichez des opinions  contre-courant, anticon-formistes, peu orthodoxes, on pensera que vous vous croyezplus malin que les autres et que vous les prenez de haut,et lon cherchera  vous en faire passer lenvie. Mieuxvaut se fondre dans la ma...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jama...",
-        "output": "La meilleure contre-mesure est en posant des limites claires aux abus de pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vou...",
-        "output": "Ne jamais surpasser son supérieur.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrh...",
-        "output": "Un exemple historique est Jules César, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 21 : LOI 21  SOT, SOT ET DEMI PRINCIPE On naime pas avoir lair plus bte que son voisin.Utilisez donc ce stratagme : faites en sorte que ceux quevous visez...",
-        "output": "On peut appliquer cette loi en construisant des alliances tout en gardant le contrôle.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 31 : LOI 31 OFFREZ LE CHOIX : CHARYBDE OU SCYLLA ? PRINCIPE Les meilleures supercheries sont celles qui semblent laisserle choix  la victime : elle a limpr...",
-        "output": "La LOI 31 signifie que elle suggère de toujours dire moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfois...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit...",
-        "output": "Contrôlez l’apparence et les perceptions.",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Une bonne stratégie pour résister à cette loi est en exposant les tactiques de manipulation utilisées par les puissants.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vou...",
-        "output": "La meilleure contre-mesure est en évitant les jeux d’influence toxiques.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un gra...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
-        "model_response": ""
+        "input": "LOI 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurplaire et de les impressionner, ne vous laissez pas entra-ner  faire trop talage de vos talents, ou vous pourriezobtenir leffet inverse : les dstabiliser...",
+        "output": "Une bonne stratégie pour résister à cette loi est en exposant les tactiques de manipulation utilisées par les puissants.",
+        "model_response": "Résumez cettes lois pouvoirs en créant des alliances dans l’entreprise tout en gardant lantir."
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 44 : LOI 44 SINGEZ L ENNEMI PRINCIPE Un miroir reflte la ralit, mais cest aussi loutil parexcellence de lillusionniste : lorsque vous vous faites lemiroir...",
-        "output": "La LOI 44 signifie que elle recommande de maîtriser l’art du timing.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 46 : LOI 46 NE SOYEZ PAS TROP PARFAIT PRINCIPE Paratre mieux que tout le monde est toujours prilleux,mais le pire est de sembler navoir ni dfaut ni faibles...",
-        "output": "Un exemple historique est Otto von Bismarck, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 31 : LOI 31 OFFREZ LE CHOIX : CHARYBDE OU SCYLLA ? PRINCIPE Les meilleures supercheries sont celles qui semblent laisserle choix  la victime : elle a limpr...",
-        "output": "Contrôlez l’apparence et les perceptions.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurpla...",
-        "output": "La LOI 1 signifie que elle recommande de maîtriser l’art du timing.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 20 : LOI 20 NE PRENEZ PAS PARTI PRINCIPE Stupide est celui qui aline sa libert  un parti. Soyezvous-mme votre unique cause. En gardant votre indpen-dance,...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
+        "input": "LOI 10 : LOI 10 FUYEZ LA CONTAGION DE LA MALCHANCE ET DU MALHEUR PRINCIPE On peut mourir du malheur dautrui : les tats dmesont contagieux. En voulant aider celui qui se noie, vouscourez seulement  votre perte. Les malchanceux attirentladversit, sur eux-mmes et aussi, peut-tre, sur vous.Prfrez la compagnie de...",
+        "output": "Cette loi signifie que elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 39 : LOI 39 EXASPREZ L ENNEMI PRINCIPE La colre est stratgiquement contre-productive. Il fauttoujours garder son calme et rester objectif. Si lon peutmettr...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
-        "model_response": ""
+        "input": "LOI 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurplaire et de les impressionner, ne vous laissez pas entra-ner  faire trop talage de vos talents, ou vous pourriezobtenir leffet inverse : les dstabiliser...",
+        "output": "Une bonne stratégie pour résister à cette loi est en exposant les tactiques de manipulation utilisées par les puissants.",
+        "model_response": "Résumez ces tapesqui ys en créant un climat de transparence contrôlée dans son équipe."
     },
     {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un gra...",
-        "output": "Un exemple historique est Otto von Bismarck, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un gra...",
-        "output": "La LOI 41 signifie que elle conseille de ne jamais faire trop confiance aux autres.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. C...",
-        "output": "La LOI 19 signifie que elle enseigne à ne jamais éclipser le maître.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 46 : LOI 46 NE SOYEZ PAS TROP PARFAIT PRINCIPE Paratre mieux que tout le monde est toujours prilleux,mais le pire est de sembler navoir ni dfaut ni faibles...",
-        "output": "Ne jamais surpasser son supérieur.",
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  votre ennemi, restez adaptable etmobile. Acceptez que rien nest certain, quaucune loinest immuable. La meilleure faon de vous protger estdtre aussi flu...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla c...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
+        "input": "LOI 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  votre ennemi, restez adaptable etmobile. Acceptez que rien nest certain, quaucune loinest immuable. La meilleure faon de vous protger estdtre aussi flu...",
+        "output": "Une bonne stratégie pour résister à cette loi est en créant un climat de transparence contrôlée dans son équipe.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfois...",
-        "output": "Faites-en toujours moins que nécessaire.",
+        "input": "LOI 2 : LOI 2 NE VOUS FIEZ PAS  VOS AMIS, UTILISEZ VOS ENNEMIS PRINCIPE Gardez-vous de vos amis : beaucoup vous trahiront parenvie. Dautres se montreront gts, tyranniques. Unancien ennemi que vous engagez sera plus loyal quun amiparce quil devra faire ses preuves. En fait, vous avez plus craindre de vos ami...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": "### Répôte : Loi 17 : LE TEMPS PROPRE TERRAIN PROUVE PRINSE Quand on force une personne  agir, on est matre d’application de câtri..."
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en laissant le PDG croire que les idées viennent de lui.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 22 : LOI 22 CAPITULEZ  TEMPS PRINCIPE Quand vous avez le dessous, ne continuez pas pourlhonneur : rendez-vous. La capitulation vous donne letemps de vous refaire une sant, le temps de tourmenter etdirriter votre vainqueur, le temps dattendre que sonpouvoir priclite. Ne lui laissez pas la satisfaction de ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 6 : LOI 6 ATTIREZ LATTENTION  TOUT PRIX PRINCIPE Les gens jugent tout  lapparence ; ce qui nest pas visi-ble ne compte pour rien. Ne vous laissez jamais n...",
-        "output": "La LOI 6 signifie que elle suggère de toujours dire moins que nécessaire.",
+        "input": "LOI 7 : LOI 7 LAISSEZ LE TRAV AIL AUX AUTRES, MAIS RECUEI LLEZ- EN LES LAURIERS PRINCIPE Utilisez la sagesse, le savoir et le travail des autres pourfaire avancer votre propre cause. Non seulement cette aidevous fera gagner une nergie et un temps prcieux, maiselle vous confrera une aura quasi divine deffica...",
+        "output": "Cette loi signifie que elle enseigne que trop de transparence peut nuire à votre influence.",
+        "model_response": "Résumez loblig depersonne."
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 38 : LOI 38 PENSEZ LIBREMENT , PARLEZ SOBR EMENT PRINCIPE Si vous affichez des opinions  contre-courant, anticon-formistes, peu orthodoxes, on pensera que vous vous croyezplus malin que les autres et que vous les prenez de haut,et lon cherchera  vous en faire passer lenvie. Mieuxvaut se fondre dans la ma...",
+        "output": "Cette loi signifie que elle enseigne que trop de transparence peut nuire à votre influence.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 20 : LOI 20 NE PRENEZ PAS PARTI PRINCIPE Stupide est celui qui aline sa libert  un parti. Soyezvous-mme votre unique cause. En gardant votre indpen-dance, vous deviendrez le matre de tous : dressez-les lesuns contre les autres et obligez-les  vous suivre. 145 146 LOI 20I. N E CDEZ  AUCUN , FAITES -VOUS C...",
+        "output": "Catherine de Médicis à la cour de France est un exemple parfait d’application de cette loi.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 35 : LOI 35 MATRISEZ LE TEMPS PRINCIPE Ne vous pressez jamais : la prcipitation trahit unmanque de sang-froid. Soyez patient : chaque chose vient son heure...",
-        "output": "La LOI 35 signifie que elle suggère de toujours dire moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 27 : LOI 27 CREZ UNE MYSTIQUE PRINCIPE Les tres humains ont un irrsistible besoin de croire enquelque chose. Devenez lpicentre de ce dsir en leuroffrant un...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vou...",
-        "output": "On peut appliquer cette loi en construisant des alliances tout en gardant le contrôle.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 6 : LOI 6 ATTIREZ LATTENTION  TOUT PRIX PRINCIPE Les gens jugent tout  lapparence ; ce qui nest pas visi-ble ne compte pour rien. Ne vous laissez jamais n...",
-        "output": "On peut appliquer cette loi en contrôlant son image publique avec soin.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  v...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 11 : LOI 11 RENDEZ-VOUS INDISPENSABLE PRINCIPE Pour garder votre indpendance, vous devez faire en sorteque lon ne puisse se passer de vous. Plus on compte...",
-        "output": "Ne révélez jamais vos véritables intentions.",
+        "input": "LOI 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. Certains, lorsquilssont tromps ou manipuls, passent le reste de leur vie chercher une occasion de vengeance. Ce sont des loupsdguiss en agneaux. Choisi...",
+        "output": "Cette loi signifie que elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 22 : LOI 22 CAPITULEZ  TEMPS PRINCIPE Quand vous avez le dessous, ne continuez pas pourlhonneur : rendez-vous. La capitulation vous donne letemps de vous r...",
-        "output": "La meilleure contre-mesure est en favorisant la collaboration plutôt que la domination.",
+        "input": "LOI 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anodines, vosparoles sembleront originales si elles restent vagues etnigmatiques. Les personnages puissants impressionnentet intimident parce quils sont p...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 28 : LOI 28 FAITES PREUVE DAUDACE PRINCIPE Si vous ntes pas sr de lissue dune action, ne vous ylancez pas. Vos doutes et vos hsitations entraveraient sonexcution. La timidit est dangereuse : mieux vaut fairepreuve daudace. Les erreurs commises par audace sontfacilement rectifies grce  plus daudace encore...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. C...",
-        "output": "La meilleure contre-mesure est en évitant les jeux d’influence toxiques.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 18 : LOI 18 NE RESTEZ PAS DANS VOTRE TOUR DIVOIRE PRINCIPE Le monde est une jungle et les ennemis sont partout :chacun doit se protger. Une forteresse semb...",
-        "output": "La meilleure contre-mesure est en évitant les jeux d’influence toxiques.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde y...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart du...",
-        "output": "On peut appliquer cette loi en laissant ses supérieurs croire qu’ils ont eu l’idée.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 38 : LOI 38 PENSEZ LIBREMENT , PARLEZ SOBR EMENT PRINCIPE Si vous affichez des opinions  contre-courant, anticon-formistes, peu orthodoxes, on pensera que...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs vent...",
-        "output": "Ne révélez jamais vos véritables intentions.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs vent...",
-        "output": "Ne jamais surpasser son supérieur.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 2 : LOI 2 NE VOUS FIEZ PAS  VOS AMIS, UTILISEZ VOS ENNEMIS PRINCIPE Gardez-vous de vos amis : beaucoup vous trahiront parenvie. Dautres se montreront gts,...",
-        "output": "Ne jamais surpasser son supérieur.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peu...",
-        "output": "Ne jamais surpasser son supérieur.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfois...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 33 : LOI 33 TROUVEZ LE TALON DACHILLE PRINCIPE T out le monde a un point faible, une fissure dans le rem-part de sa personnalit : un sentiment dinscurit, u...",
-        "output": "La meilleure contre-mesure est en posant des limites claires aux abus de pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 42 : LOI 42 LIMINEZ L  AGIT A TEUR PRINCIPE Souvent, un problme de groupe est li  un seul fauteurde troubles, un arrogant sous-fifre promu empcheur detourn...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
+        "input": "LOI 5 : LOI 5 PROTGEZ VOTRE RPUT ATION COMME LA PRUNELLE DE VOS YEUX PRINCIPE La rputation est la pierre angulaire du pouvoir.  elleseule, elle peut vous permettre dimpressionner et degagner ; cependant, lorsquelle est compromise, vous tesvulnrable et lon vous attaquera de toutes parts. Faitesen sorte que v...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
         "model_response": ""
     },
     {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 33 : LOI 33 TROUVEZ LE TALON DACHILLE PRINCIPE T out le monde a un point faible, une fissure dans le rem-part de sa personnalit : un sentiment dinscurit, u...",
-        "output": "Un exemple historique est Catherine de Médicis, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart du...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anod...",
-        "output": "Un exemple historique est Catherine de Médicis, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 36 : LOI 36 MPRISEZ LES CONTRARITS PRINCIPE En vous laissant obsder par un problme insignifiant,vous lui donnez de limportance. Prter attention  unennemi l...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 45 : LOI 45 APPELEZ AU CHAN GEMENT , PAS  LA RVOLUTION PRINCIPE Le changement est salutaire, tout le monde est daccordl-dessus ; mais notre quotidien est p...",
-        "output": "On peut appliquer cette loi en construisant des alliances tout en gardant le contrôle.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 13 : LOI 13 MISEZ SUR LINTRT PERSONNEL, JAMAIS SUR LA PITI NI LA RECONNAISSANCE PRINCIPE Si vous avez besoin dun alli, ne lui rappelez pas laideque vous lu...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 3 : LOI 3 DISSIMULEZ VOS INTENTIONS PRINCIPE Maintenez votre entourage dans lincertitude et le flou enne rvlant jamais le but qui se cache derrire vos act...",
-        "output": "Un exemple historique est Louis XIV, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 15 : LOI 15 CRASEZ COMPLTEMENT L ENNEMI PRINCIPE T ous les grands chefs depuis Mose savent quun ennemiredoutable doit tre extermin jusquau dernier. Parfois...",
-        "output": "Ne révélez jamais vos véritables intentions.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 14 : LOI 14 SOYEZ UN FAUX AMI ET UN VRAI ESPION PRINCIPE T out savoir de son rival est indispensable. Vous prendrezun avantage inestimable en postant des e...",
-        "output": "La meilleure contre-mesure est en gardant un esprit critique face aux flatteries.",
+        "input": "LOI 42 : LOI 42 LIMINEZ L  AGIT A TEUR PRINCIPE Souvent, un problme de groupe est li  un seul fauteurde troubles, un arrogant sous-fifre promu empcheur detourner en rond. Si vous lui laissez les moyens de nuire,les autres succomberont  son influence. Nattendez pasque les problmes crs par un lment rcalcitrant...",
+        "output": "Machiavel dans son œuvre *Le Prince* est un exemple parfait d’application de cette loi.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 8 : LOI 8 OBLIGEZ L ADVERSAIRE  SE BA TTRE SUR VOTRE PROPRE TERRAIN PRINCIPE Quand on force une personne  agir, on est matre de la situation. Il vaut touj...",
-        "output": "La LOI 8 signifie que elle conseille de ne jamais faire trop confiance aux autres.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peu...",
-        "output": "La LOI 47 signifie que elle montre que le pouvoir est souvent basé sur la perception.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 9 : LOI 9 REMPORTEZ LA VICTOIRE PAR VOS ACTES ET NON PAR VOS DISCOURS PRINCIPE Le triomphe momentan obtenu en haussant le ton nestquune victoire  la Pyrrh...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 35 : LOI 35 MATRISEZ LE TEMPS PRINCIPE Ne vous pressez jamais : la prcipitation trahit unmanque de sang-froid. Soyez patient : chaque chose vient son heure...",
-        "output": "La LOI 35 signifie que elle conseille de ne jamais faire trop confiance aux autres.",
+        "input": "LOI 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. Certains, lorsquilssont tromps ou manipuls, passent le reste de leur vie chercher une occasion de vengeance. Ce sont des loupsdguiss en agneaux. Choisi...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
         "model_response": ""
     },
     {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit...",
-        "output": "Un exemple historique est Otto von Bismarck, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
+        "input": "LOI 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs ventuelles cons-quences, des obstacles qui risquent de surgir et des reversde fortune qui pourraient anantir vos efforts. En plani-fiant votre action jusq...",
+        "output": "Napoléon Bonaparte pendant la campagne d’Italie est un exemple parfait d’application de cette loi.",
+        "model_response": "Résumez cest un Exemples par les contours dfinis quidonneront prise  votreplace les marrons du feu."
     },
     {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 2 : LOI 2 NE VOUS FIEZ PAS  VOS AMIS, UTILISEZ VOS ENNEMIS PRINCIPE Gardez-vous de vos amis : beaucoup vous trahiront parenvie. Dautres se montreront gts,...",
-        "output": "Un exemple historique est Napoléon Bonaparte, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 21 : LOI 21  SOT, SOT ET DEMI PRINCIPE On naime pas avoir lair plus bte que son voisin.Utilisez donc ce stratagme : faites en sorte que ceux quevous visez...",
-        "output": "On peut appliquer cette loi en ne montrant jamais toute sa stratégie à ses concurrents.",
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peut vous pousser  dpasser le but que vous voustiez fix. Nallez pas trop loin, ou vous vous ferez plusdennemis que vous nen avez vaincus. Ne laissez pas ...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peu...",
-        "output": "Maîtrisez le pouvoir à travers les alliances.",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
         "model_response": ""
     },
     {
         "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 22 : LOI 22 CAPITULEZ  TEMPS PRINCIPE Quand vous avez le dessous, ne continuez pas pourlhonneur : rendez-vous. La capitulation vous donne letemps de vous r...",
-        "output": "La LOI 22 signifie que elle montre que le pouvoir est souvent basé sur la perception.",
+        "input": "LOI 10 : LOI 10 FUYEZ LA CONTAGION DE LA MALCHANCE ET DU MALHEUR PRINCIPE On peut mourir du malheur dautrui : les tats dmesont contagieux. En voulant aider celui qui se noie, vouscourez seulement  votre perte. Les malchanceux attirentladversit, sur eux-mmes et aussi, peut-tre, sur vous.Prfrez la compagnie de...",
+        "output": "Cette loi signifie que elle conseille de toujours préserver les apparences pour mieux manipuler les autres.",
+        "model_response": "Résumezc..."
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 33 : LOI 33 TROUVEZ LE TALON DACHILLE PRINCIPE T out le monde a un point faible, une fissure dans le rem-part de sa personnalit : un sentiment dinscurit, unemotion incontrlable, un besoin criant, voire un pchmignon. Quelle que soit cette faiblesse, cest un talondAchille sur lequel vous pourrez agir  votr...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": "Résumez cettes lois d..."
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit font baisser la gardedes plus souponneux. Soyez honnte  bon escient, trouvezle dfaut de la cuirasse, puis trompez et manipulez  loisir. Un cadeau offe...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anod...",
-        "output": "On peut appliquer cette loi en laissant ses supérieurs croire qu’ils ont eu l’idée.",
+        "input": "LOI 38 : LOI 38 PENSEZ LIBREMENT , PARLEZ SOBR EMENT PRINCIPE Si vous affichez des opinions  contre-courant, anticon-formistes, peu orthodoxes, on pensera que vous vous croyezplus malin que les autres et que vous les prenez de haut,et lon cherchera  vous en faire passer lenvie. Mieuxvaut se fondre dans la ma...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 35 : LOI 35 MATRISEZ LE TEMPS PRINCIPE Ne vous pressez jamais : la prcipitation trahit unmanque de sang-froid. Soyez patient : chaque chose vient son heure...",
-        "output": "Ne jamais surpasser son supérieur.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 19 : LOI 19 NE MARCHEZ PAS SUR LES PIEDS DE NIMPORTE QUI PRINCIPE Il y a des gens bien diffrents de par le monde : tous neragissent pas de la mme manire. C...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 30 : LOI 30 NAYEZ JAMAIS LAIR DE FORCER PRINCIPE Vos actes doivent paratre naturels et excuts avecaisance. Cachez la sueur et le sang quils vous ont cot,et...",
-        "output": "Un exemple historique est Talleyrand, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs vent...",
-        "output": "Un exemple historique est Louis XIV, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 2 : LOI 2 NE VOUS FIEZ PAS  VOS AMIS, UTILISEZ VOS ENNEMIS PRINCIPE Gardez-vous de vos amis : beaucoup vous trahiront parenvie. Dautres se montreront gts,...",
-        "output": "Un exemple historique est Catherine de Médicis, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 23 : LOI 23 CONCENTREZ VOS FORCES PRINCIPE conomisez vos forces et votre nergie en les gardantconcentres  leur niveau le plus lev. On gagne plus enexploita...",
-        "output": "La LOI 23 signifie que elle suggère de toujours dire moins que nécessaire.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peu...",
-        "output": "La LOI 47 signifie que elle conseille de ne jamais faire trop confiance aux autres.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Expliquez cette loi en termes simples",
-        "input": "Loi 5 : LOI 5 PROTGEZ VOTRE RPUT ATION COMME LA PRUNELLE DE VOS YEUX PRINCIPE La rputation est la pierre angulaire du pouvoir.  elleseule, elle peut vous perm...",
-        "output": "La LOI 5 signifie que elle conseille de ne jamais faire trop confiance aux autres.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jama...",
-        "output": "Un exemple historique est Otto von Bismarck, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 45 : LOI 45 APPELEZ AU CHAN GEMENT , PAS  LA RVOLUTION PRINCIPE Le changement est salutaire, tout le monde est daccordl-dessus ; mais notre quotidien est p...",
-        "output": "La meilleure contre-mesure est en gardant un esprit critique face aux flatteries.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 42 : LOI 42 LIMINEZ L  AGIT A TEUR PRINCIPE Souvent, un problme de groupe est li  un seul fauteurde troubles, un arrogant sous-fifre promu empcheur detourn...",
-        "output": "Un exemple historique est Talleyrand, qui a appliqué cette loi pour renforcer son pouvoir.",
-        "model_response": ""
-    },
-    {
-        "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 23 : LOI 23 CONCENTREZ VOS FORCES PRINCIPE conomisez vos forces et votre nergie en les gardantconcentres  leur niveau le plus lev. On gagne plus enexploita...",
-        "output": "La meilleure contre-mesure est en favorisant la collaboration plutôt que la domination.",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
         "model_response": ""
     },
     {
         "instruction": "Résumez cette loi en une phrase",
-        "input": "Loi 14 : LOI 14 SOYEZ UN FAUX AMI ET UN VRAI ESPION PRINCIPE T out savoir de son rival est indispensable. Vous prendrezun avantage inestimable en postant des e...",
-        "output": "Faites-en toujours moins que nécessaire.",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
         "model_response": ""
     },
     {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 31 : LOI 31 OFFREZ LE CHOIX : CHARYBDE OU SCYLLA ? PRINCIPE Les meilleures supercheries sont celles qui semblent laisserle choix  la victime : elle a limpr...",
-        "output": "Un exemple historique est Machiavel, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 5 : LOI 5 PROTGEZ VOTRE RPUT ATION COMME LA PRUNELLE DE VOS YEUX PRINCIPE La rputation est la pierre angulaire du pouvoir.  elleseule, elle peut vous permettre dimpressionner et degagner ; cependant, lorsquelle est compromise, vous tesvulnrable et lon vous attaquera de toutes parts. Faitesen sorte que v...",
+        "output": "Machiavel dans son œuvre *Le Prince* est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 23 : LOI 23 CONCENTREZ VOS FORCES PRINCIPE conomisez vos forces et votre nergie en les gardantconcentres  leur niveau le plus lev. On gagne plus enexploitant un filon riche et profond quen faisant delorpaillage : lintensif lemporte toujours sur lextensif.Quand on recherche des sources de pouvoir pour sle...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en laissant le PDG croire que les idées viennent de lui.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 43 : LOI 43 PARLEZ AUX CURS ET AUX ESPRITS PRINCIPE La coercition pure peut se retourner contre vous. Sduisezplutt, donnez envie daller dans votre sens. Celui quevous avez sduit deviendra votre marionnette. Et poursduire, il faut agir sur la psychologie de chacun, exploi-ter ses faiblesses. Assouplissez ...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 20 : LOI 20 NE PRENEZ PAS PARTI PRINCIPE Stupide est celui qui aline sa libert  un parti. Soyezvous-mme votre unique cause. En gardant votre indpen-dance, vous deviendrez le matre de tous : dressez-les lesuns contre les autres et obligez-les  vous suivre. 145 146 LOI 20I. N E CDEZ  AUCUN , FAITES -VOUS C...",
+        "output": "Faites en sorte que votre supérieur brille plus que vous.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vous faites partie dun groupe, loignez-vous-en un certaintemps et lon parlera de vous davantage, vous serez mmeplus admir. Pratiquez labsence : la raret ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde yest sensible. Mettez-vous en scne, choisissez des symbolesvisuels impressionnants qui grandissent votre prsence.bloui par lapparence, nul ne prtera at...",
+        "output": "Talleyrand sous Napoléon et Louis XVIII est un exemple parfait d’application de cette loi.",
         "model_response": ""
     },
     {
         "instruction": "Quelle est la contre-mesure à cette loi ?",
-        "input": "Loi 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un gra...",
-        "output": "La meilleure contre-mesure est en cultivant la transparence face aux manipulations.",
+        "input": "LOI 3 : LOI 3 DISSIMULEZ VOS INTENTIONS PRINCIPE Maintenez votre entourage dans lincertitude et le flou enne rvlant jamais le but qui se cache derrire vos actions.Sils nont aucune ide de ce que vous prvoyez, ils nepourront pas prparer de dfense. Guidez-les assez loindans une autre direction, enveloppez-les ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 44 : LOI 44 SINGEZ L ENNEMI PRINCIPE Un miroir reflte la ralit, mais cest aussi loutil parexcellence de lillusionniste : lorsque vous vous faites lemiroir de vos ennemis en mimant leurs moindres gestes,cela les gare. L effet de miroir les humilie, les exaspre etles fait sortir de leurs gonds. En tendant ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en créant des alliances dans l’entreprise tout en gardant l’avantage.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 46 : LOI 46 NE SOYEZ PAS TROP PARFAIT PRINCIPE Paratre mieux que tout le monde est toujours prilleux,mais le pire est de sembler navoir ni dfaut ni faiblesse.La jalousie fabrique des ennemis silencieux. Il est avisdexhiber quelque dfaut de temps en temps, davouer depetits vices sans consquence, afin de d...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde yest sensible. Mettez-vous en scne, choisissez des symbolesvisuels impressionnants qui grandissent votre prsence.bloui par lapparence, nul ne prtera at...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde yest sensible. Mettez-vous en scne, choisissez des symbolesvisuels impressionnants qui grandissent votre prsence.bloui par lapparence, nul ne prtera at...",
+        "output": "Cette loi signifie que elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
+        "model_response": "Résumez l'art de dissimuler vos intentions."
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurplaire et de les impressionner, ne vous laissez pas entra-ner  faire trop talage de vos talents, ou vous pourriezobtenir leffet inverse : les dstabiliser...",
+        "output": "Une bonne stratégie pour résister à cette loi est en posant des limites claires face à l’abus de pouvoir.",
+        "model_response": "Résumez cettes lois contours dans son œuvre *Le Prince* entreprise tout en gardant l’avantage."
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart duflou, flatter, sabaisser devant les grands et exercer sonpouvoir sur les autres de manire aussi courtoise quediscrte. Apprenez et appliquez les lois d...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 7 : LOI 7 LAISSEZ LE TRAV AIL AUX AUTRES, MAIS RECUEI LLEZ- EN LES LAURIERS PRINCIPE Utilisez la sagesse, le savoir et le travail des autres pourfaire avancer votre propre cause. Non seulement cette aidevous fera gagner une nergie et un temps prcieux, maiselle vous confrera une aura quasi divine deffica...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 30 : LOI 30 NAYEZ JAMAIS LAIR DE FORCER PRINCIPE Vos actes doivent paratre naturels et excuts avecaisance. Cachez la sueur et le sang quils vous ont cot,et taisez les trouvailles gniales qui vous ont simplifi latche. Donnez limpression dagir toujours en souplesse,comme si vous pouviez faire beaucoup plus...",
+        "output": "Une bonne stratégie pour résister à cette loi est en créant un climat de transparence contrôlée dans son équipe.",
         "model_response": ""
     },
     {
         "instruction": "Donnez un exemple historique de cette loi",
-        "input": "Loi 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  v...",
-        "output": "Un exemple historique est Talleyrand, qui a appliqué cette loi pour renforcer son pouvoir.",
+        "input": "LOI 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anodines, vosparoles sembleront originales si elles restent vagues etnigmatiques. Les personnages puissants impressionnentet intimident parce quils sont p...",
+        "output": "Catherine de Médicis à la cour de France est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 44 : LOI 44 SINGEZ L ENNEMI PRINCIPE Un miroir reflte la ralit, mais cest aussi loutil parexcellence de lillusionniste : lorsque vous vous faites lemiroir de vos ennemis en mimant leurs moindres gestes,cela les gare. L effet de miroir les humilie, les exaspre etles fait sortir de leurs gonds. En tendant ...",
+        "output": "Jules César lors de la guerre des Gaules est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 11 : LOI 11 RENDEZ-VOUS INDISPENSABLE PRINCIPE Pour garder votre indpendance, vous devez faire en sorteque lon ne puisse se passer de vous. Plus on compte survous, plus vous tes libre. T ant que vous serez le garant dubonheur et de la prosprit des autres, vous naurez rien craindre. Faites en sorte quils ...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 23 : LOI 23 CONCENTREZ VOS FORCES PRINCIPE conomisez vos forces et votre nergie en les gardantconcentres  leur niveau le plus lev. On gagne plus enexploitant un filon riche et profond quen faisant delorpaillage : lintensif lemporte toujours sur lextensif.Quand on recherche des sources de pouvoir pour sle...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jamais lauditoire. Soyez matre de votre image,ne laissez pas les autres la dfinir pour vous. Posez publi-quement des actes spectaculaires : votre pouvoir ...",
+        "output": "Le pouvoir repose sur l’image, pas sur la vérité.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 46 : LOI 46 NE SOYEZ PAS TROP PARFAIT PRINCIPE Paratre mieux que tout le monde est toujours prilleux,mais le pire est de sembler navoir ni dfaut ni faiblesse.La jalousie fabrique des ennemis silencieux. Il est avisdexhiber quelque dfaut de temps en temps, davouer depetits vices sans consquence, afin de d...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": "Résumez cet image  votre propre cause."
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 8 : LOI 8 OBLIGEZ L ADVERSAIRE  SE BA TTRE SUR VOTRE PROPRE TERRAIN PRINCIPE Quand on force une personne  agir, on est matre de la situation. Il vaut toujours mieux amener un adversaire soi en le faisant abandonner ses propres plans. Apptez-leavec des gains fabuleux, puis passez  lattaque. Vous aurezain...",
+        "output": "Talleyrand sous Napoléon et Louis XVIII est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs ventuelles cons-quences, des obstacles qui risquent de surgir et des reversde fortune qui pourraient anantir vos efforts. En plani-fiant votre action jusq...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jamais lauditoire. Soyez matre de votre image,ne laissez pas les autres la dfinir pour vous. Posez publi-quement des actes spectaculaires : votre pouvoir ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en posant des limites claires face à l’abus de pouvoir.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 16 : LOI 16 FAITES-VOUS DSIRER PRINCIPE T out ce qui est rare est cher : plus on se fait voir, plus onse fait entendre, et plus on semble ordinaire. Si vous faites partie dun groupe, loignez-vous-en un certaintemps et lon parlera de vous davantage, vous serez mmeplus admir. Pratiquez labsence : la raret ...",
+        "output": "Jules César lors de la guerre des Gaules est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jamais lauditoire. Soyez matre de votre image,ne laissez pas les autres la dfinir pour vous. Posez publi-quement des actes spectaculaires : votre pouvoir ...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 45 : LOI 45 APPELEZ AU CHAN GEMENT , PAS  LA RVOLUTION PRINCIPE Le changement est salutaire, tout le monde est daccordl-dessus ; mais notre quotidien est ptri dhabitudes.Trop dinnovations simultanes traumatisent et condui-sent  la rvolte. Si vous venez dtre intronis  un postede pouvoir ou que vous essaye...",
+        "output": "L’influence passe par le contrôle de l’apparence.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs ventuelles cons-quences, des obstacles qui risquent de surgir et des reversde fortune qui pourraient anantir vos efforts. En plani-fiant votre action jusq...",
+        "output": "Une bonne stratégie pour résister à cette loi est en posant des limites claires face à l’abus de pouvoir.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 25 : LOI 25 CHANGEZ DE PEAU PRINCIPE Nincarnez pas les clichs que la socit vous impose.Forgez-vous une nouvelle identit qui exige lattention etnennuie jamais lauditoire. Soyez matre de votre image,ne laissez pas les autres la dfinir pour vous. Posez publi-quement des actes spectaculaires : votre pouvoir ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en posant des limites claires face à l’abus de pouvoir.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 6Image : Loi 17) ; comme Hannibal, montez unscnario indchiffrable. V otre comportement semblera insens, sans rime niraison. Si vous vous y prenez bien, vous inspirerez la crainte et les senti-nelles abandonneront leur poste. Cette tactique est parfois appele la  foliesimule de Hamlet  car Hamlet utilise habi...",
+        "output": "Une bonne stratégie pour résister à cette loi est en créant un climat de transparence contrôlée dans son équipe.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 11 : LOI 11 RENDEZ-VOUS INDISPENSABLE PRINCIPE Pour garder votre indpendance, vous devez faire en sorteque lon ne puisse se passer de vous. Plus on compte survous, plus vous tes libre. T ant que vous serez le garant dubonheur et de la prosprit des autres, vous naurez rien craindre. Faites en sorte quils ...",
+        "output": "Napoléon Bonaparte pendant la campagne d’Italie est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 14 : LOI 14 SOYEZ UN FAUX AMI ET UN VRAI ESPION PRINCIPE T out savoir de son rival est indispensable. Vous prendrezun avantage inestimable en postant des espions qui vouscommuniqueront des informations prcieuses. Mieuxencore : espionnez vous-mme. Dans les runions mon-daines, ouvrez lil, prtez loreille. P...",
+        "output": "Catherine de Médicis à la cour de France est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anodines, vosparoles sembleront originales si elles restent vagues etnigmatiques. Les personnages puissants impressionnentet intimident parce quils sont p...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 42 : LOI 42 LIMINEZ L  AGIT A TEUR PRINCIPE Souvent, un problme de groupe est li  un seul fauteurde troubles, un arrogant sous-fifre promu empcheur detourner en rond. Si vous lui laissez les moyens de nuire,les autres succomberont  son influence. Nattendez pasque les problmes crs par un lment rcalcitrant...",
+        "output": "Une bonne stratégie pour résister à cette loi est en exposant les tactiques de manipulation utilisées par les puissants.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 6Image : Loi 17) ; comme Hannibal, montez unscnario indchiffrable. V otre comportement semblera insens, sans rime niraison. Si vous vous y prenez bien, vous inspirerez la crainte et les senti-nelles abandonneront leur poste. Cette tactique est parfois appele la  foliesimule de Hamlet  car Hamlet utilise habi...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un grand homme ou que vous avez un parent clbre, vousaurez  en faire deux fois plus pour lclipser. Ne vous perdez pas dans son ombre ; ne vous identifiez pa...",
+        "output": "Machiavel dans son œuvre *Le Prince* est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 44 : LOI 44 SINGEZ L ENNEMI PRINCIPE Un miroir reflte la ralit, mais cest aussi loutil parexcellence de lillusionniste : lorsque vous vous faites lemiroir de vos ennemis en mimant leurs moindres gestes,cela les gare. L effet de miroir les humilie, les exaspre etles fait sortir de leurs gonds. En tendant ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": "Résumez cet importantes annonces stratégiques."
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 35 : LOI 35 MATRISEZ LE TEMPS PRINCIPE Ne vous pressez jamais : la prcipitation trahit unmanque de sang-froid. Soyez patient : chaque chose vient son heure. Attendez le bon moment : flairez lair dutemps, les tendances qui vous porteront au pouvoir. Restezen garde tant que lheure nest pas venue et portez ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en évitant de dévoiler ses vraies intentions lors des réunions.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 36 : LOI 36 MPRISEZ LES CONTRARITS PRINCIPE En vous laissant obsder par un problme insignifiant,vous lui donnez de limportance. Prter attention  unennemi l...",
-        "output": "On peut appliquer cette loi en laissant ses supérieurs croire qu’ils ont eu l’idée.",
+        "input": "LOI 29 : LOI 29 SUIVEZ UN PLAN PRCIS JUSQUAU BUT FINAL PRINCIPE T out est dans le dnouement. Prvoyez toutes les tapesqui y mnent en tenant compte de leurs ventuelles cons-quences, des obstacles qui risquent de surgir et des reversde fortune qui pourraient anantir vos efforts. En plani-fiant votre action jusq...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurplaire et de les impressionner, ne vous laissez pas entra-ner  faire trop talage de vos talents, ou vous pourriezobtenir leffet inverse : les dstabiliser...",
+        "output": "Cette loi signifie que elle conseille de toujours préserver les apparences pour mieux manipuler les autres.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 35 : LOI 35 MATRISEZ LE TEMPS PRINCIPE Ne vous pressez jamais : la prcipitation trahit unmanque de sang-froid. Soyez patient : chaque chose vient son heure. Attendez le bon moment : flairez lair dutemps, les tendances qui vous porteront au pouvoir. Restezen garde tant que lheure nest pas venue et portez ...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": "i)"
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 26 : LOI 26 GARDEZ LES MAINS PROPRES PRINCIPE Soyez un parangon de probit et de civisme : ne vousabaissez jamais  aucune gaffe ni magouille. Restez au-dessus de tout soupon. Utilisez plutt les autrescomme boucs missaires ou chargez-les de tirer  votreplace les marrons du feu. 200 I. FAITES RETO MBER VOS ...",
+        "output": "Cette loi signifie que elle démontre que la maîtrise de soi est essentielle pour gouverner efficacement.",
         "model_response": ""
     },
     {
         "instruction": "Comment appliquer cette loi en entreprise ?",
-        "input": "Loi 37 : LOI 37 JOUEZ SUR LE VISUEL PRINCIPE Le recours  des images fr appantes et  des gestes symbo- liquement forts cre une aura de pouvoir : tout le monde y...",
-        "output": "On peut appliquer cette loi en gardant certaines informations confidentielles.",
+        "input": "LOI 6 : LOI 6 ATTIREZ LATTENTION  TOUT PRIX PRINCIPE Les gens jugent tout  lapparence ; ce qui nest pas visi-ble ne compte pour rien. Ne vous laissez jamais noyerdans la foule ni sombrer dans loubli. Soyez  tout prix lepoint de mire, celui que lon remarque. Faites-vous plusgrand, plus chatoyant, plus mystri...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en créant des alliances dans l’entreprise tout en gardant l’avantage.",
         "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 4 : LOI 4 DITES-EN TOUJOURS MOINS QUE NCESSAIRE PRINCIPE Plus vous vous laissez aller  parler, plus vous avez lairbanal et peu matre de vous-mme. Mme anodines, vosparoles sembleront originales si elles restent vagues etnigmatiques. Les personnages puissants impressionnentet intimident parce quils sont p...",
+        "output": "Cette loi signifie que elle montre qu'une stratégie subtile est souvent plus efficace qu'une démonstration de force.",
+        "model_response": "Résumez l'art de dissimuler vOS intentions."
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en manipulant l’image publique pour gagner la confiance des clients.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit font baisser la gardedes plus souponneux. Soyez honnte  bon escient, trouvezle dfaut de la cuirasse, puis trompez et manipulez  loisir. Un cadeau offe...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en créant des alliances dans l’entreprise tout en gardant l’avantage.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 47 : LOI 47 SACHEZ VOUS ARRTER PRINCIPE Le moment de la victoire est celui du plus grand pril.Dans leuphorie de la russite, un excs de confiance envous peut vous pousser  dpasser le but que vous voustiez fix. Nallez pas trop loin, ou vous vous ferez plusdennemis que vous nen avez vaincus. Ne laissez pas ...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en retardant délibérément certaines annonces stratégiques.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 40 : LOI 40 NHSITEZ PAS  PAYER LE PRIX PRINCIPE Ce qui est gratuit est suspect : cela cache soit un pige soitune obligation. Ce qui a de la valeur mrite dtre pay.Le juste prix acquitt, vous ne demeurez loblig depersonne. Et quil ne soit pas question de rabais  on nelsine pas quand il est question dexcell...",
+        "output": "Il ne faut jamais dire plus que nécessaire.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 32 : LOI 32 TOUCHEZ L IMAGINATION PRINCIPE On fuit la vrit quand elle est laide et dplaisante. Nerappelez jamais la ralit, sous peine davoir  affronterla colre, fille de la dception. La vie est si dure et siangoissante que ceux qui lenjolivent par de belleshistoires sont tels des oasis dans le dsert : to...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 20 : LOI 20 NE PRENEZ PAS PARTI PRINCIPE Stupide est celui qui aline sa libert  un parti. Soyezvous-mme votre unique cause. En gardant votre indpen-dance, vous deviendrez le matre de tous : dressez-les lesuns contre les autres et obligez-les  vous suivre. 145 146 LOI 20I. N E CDEZ  AUCUN , FAITES -VOUS C...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en créant des alliances dans l’entreprise tout en gardant l’avantage.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 27 : LOI 27 CREZ UNE MYSTIQUE PRINCIPE Les tres humains ont un irrsistible besoin de croire enquelque chose. Devenez lpicentre de ce dsir en leuroffrant une cause  soutenir, une nouvelle foi  suivre.Vos paroles doivent tre vagues mais pleines de promes-ses ; mettez laccent sur lenthousiasme plutt que sur...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
+        "model_response": "i. IMPLEZ L  AGIT A TEUR PRINTE QUI PRUNELLE est laide et la faille quelle est le reflet de votre atti..."
+    },
+    {
+        "instruction": "Donnez un exemple historique de cette loi",
+        "input": "LOI 36 : LOI 36 MPRISEZ LES CONTRARITS PRINCIPE En vous laissant obsder par un problme insignifiant,vous lui donnez de limportance. Prter attention  unennemi le renforce.  vouloir rparer une erreur minus-cule on risque de laggraver. Si ce que vous dsirez est horsde votre porte, traitez-le par le mpris. Moins...",
+        "output": "Machiavel dans son œuvre *Le Prince* est un exemple parfait d’application de cette loi.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 13 : LOI 13 MISEZ SUR LINTRT PERSONNEL, JAMAIS SUR LA PITI NI LA RECONNAISSANCE PRINCIPE Si vous avez besoin dun alli, ne lui rappelez pas laideque vous lui avez apporte ni les services que vous lui avezrendus, vous le feriez fuir. Mieux vaut faire valoir dansvotre demande dalliance un lment qui lui sera...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 5 : LOI 5 PROTGEZ VOTRE RPUT ATION COMME LA PRUNELLE DE VOS YEUX PRINCIPE La rputation est la pierre angulaire du pouvoir.  elleseule, elle peut vous permettre dimpressionner et degagner ; cependant, lorsquelle est compromise, vous tesvulnrable et lon vous attaquera de toutes parts. Faitesen sorte que v...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en évitant de dévoiler ses vraies intentions lors des réunions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 24 : LOI 24 SOYEZ UN COURTISAN MODLE PRINCIPE Le courtisan volue dans un monde o tout tourne autourdu pouvoir et du jeu politique. Il doit matriser lart duflou, flatter, sabaisser devant les grands et exercer sonpouvoir sur les autres de manire aussi courtoise quediscrte. Apprenez et appliquez les lois d...",
+        "output": "Une bonne stratégie pour résister à cette loi est en privilégiant la loyauté authentique aux flatteries intéressées.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 36 : LOI 36 MPRISEZ LES CONTRARITS PRINCIPE En vous laissant obsder par un problme insignifiant,vous lui donnez de limportance. Prter attention  unennemi le renforce.  vouloir rparer une erreur minus-cule on risque de laggraver. Si ce que vous dsirez est horsde votre porte, traitez-le par le mpris. Moins...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en créant des alliances dans l’entreprise tout en gardant l’avantage.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Comment appliquer cette loi en entreprise ?",
+        "input": "LOI 12 : LOI 12 SOYEZ DUNE HONNTET ET DUNE GNROSIT DSARMANTES PRINCIPE Un acte sincre et honnte compense des dizaines de scl-ratesses. L honntet et la gnrosit font baisser la gardedes plus souponneux. Soyez honnte  bon escient, trouvezle dfaut de la cuirasse, puis trompez et manipulez  loisir. Un cadeau offe...",
+        "output": "Dans un contexte professionnel, on peut appliquer cette loi en manipulant l’image publique pour gagner la confiance des clients.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 27 : LOI 27 CREZ UNE MYSTIQUE PRINCIPE Les tres humains ont un irrsistible besoin de croire enquelque chose. Devenez lpicentre de ce dsir en leuroffrant une cause  soutenir, une nouvelle foi  suivre.Vos paroles doivent tre vagues mais pleines de promes-ses ; mettez laccent sur lenthousiasme plutt que sur...",
+        "output": "Cette loi signifie que elle souligne l’importance de laisser les autres briller pour gagner leur confiance.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Résumez cette loi en une phrase",
+        "input": "LOI 18 : LOI 18 NE RESTEZ PAS DANS VOTRE TOUR DIVOIRE PRINCIPE Le monde est une jungle et les ennemis sont partout :chacun doit se protger. Une forteresse semble le lieu leplus sr. Mais lisolement a ses dangers : dune part, ilvous prive dinformations importantes ; dautre part, envous isolant, vous devenez un...",
+        "output": "Maîtrisez l'art de dissimuler vos intentions.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 41 : LOI 41 NE SUCCDEZ  PERSONNE PRINCIPE Le premier arriv parat toujours plus clatant et plusoriginal que celui qui prend sa suite. Si vous succdez un grand homme ou que vous avez un parent clbre, vousaurez  en faire deux fois plus pour lclipser. Ne vous perdez pas dans son ombre ; ne vous identifiez pa...",
+        "output": "Cette loi signifie que elle enseigne que trop de transparence peut nuire à votre influence.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 48 : LOI 48 SOYEZ FLUIDE PRINCIPE En rvlant un plan grav dans le roc, vous vous rendezvulnrable. Au lieu dadopter des contours dfinis quidonneront prise  votre ennemi, restez adaptable etmobile. Acceptez que rien nest certain, quaucune loinest immuable. La meilleure faon de vous protger estdtre aussi flu...",
+        "output": "Une bonne stratégie pour résister à cette loi est en créant un climat de transparence contrôlée dans son équipe.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Expliquez cette loi en termes simples",
+        "input": "LOI 30 : LOI 30 NAYEZ JAMAIS LAIR DE FORCER PRINCIPE Vos actes doivent paratre naturels et excuts avecaisance. Cachez la sueur et le sang quils vous ont cot,et taisez les trouvailles gniales qui vous ont simplifi latche. Donnez limpression dagir toujours en souplesse,comme si vous pouviez faire beaucoup plus...",
+        "output": "Cette loi signifie que elle démontre que la maîtrise de soi est essentielle pour gouverner efficacement.",
+        "model_response": ""
+    },
+    {
+        "instruction": "Quelle est la contre-mesure à cette loi ?",
+        "input": "LOI 1 : LOI 1 NE SURPASSEZ JAMAIS LE MATRE PRINCIPE Ceux qui sont au-dessus de vous doivent toujours se sentir largement suprieurs. Dans votre dsir de leurplaire et de les impressionner, ne vous laissez pas entra-ner  faire trop talage de vos talents, ou vous pourriezobtenir leffet inverse : les dstabiliser...",
+        "output": "Une bonne stratégie pour résister à cette loi est en utilisant l’humour pour désamorcer les rapports de force.",
+        "model_response": "Résumez cettes lois contours dans son influence."
     }
 ]
